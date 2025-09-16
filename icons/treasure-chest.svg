@@ -1,0 +1,65 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg"><svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->  <!-- Background -->
+
+  <rect width="128" height="128" fill="#1a1a2e" rx="10"/>  <rect width="128" height="128" fill="#1a1a2e" rx="10"/>
+
+    
+
+  <!-- Treasure chest body -->  <!-- Treasure chest body -->
+
+  <rect x="20" y="60" width="88" height="50" fill="#8B4513" stroke="#654321" stroke-width="2" rx="4"/>  <rect x="20" y="60" width="88" height="50" fill="#8B4513" stroke="#654321" stroke-width="2" rx="4"/>
+
+    
+
+  <!-- Treasure chest lid -->  <!-- Treasure chest lid -->
+
+  <path d="M20 60 Q64 40 108 60 L108 45 Q64 25 20 45 Z" fill="#A0522D" stroke="#654321" stroke-width="2"/>  <path d="M20 60 Q64 40 108 60 L108 45 Q64 25 20 45 Z" fill="#A0522D" stroke="#654321" stroke-width="2"/>
+
+    
+
+  <!-- Chest lock -->  <!-- Chest lock -->
+
+  <rect x="58" y="65" width="12" height="8" fill="#FFD700" stroke="#FFA500" stroke-width="1" rx="2"/>  <rect x="58" y="65" width="12" height="8" fill="#FFD700" stroke="#FFA500" stroke-width="1" rx="2"/>
+
+  <circle cx="64" cy="69" r="2" fill="#B8860B"/>  <circle cx="64" cy="69" r="2" fill="#B8860B"/>
+
+    
+
+  <!-- Gold coins spilling out -->  <!-- Gold coins spilling out -->
+
+  <circle cx="45" cy="75" r="6" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>  <circle cx="45" cy="75" r="6" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>
+
+  <circle cx="55" cy="82" r="5" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>  <circle cx="55" cy="82" r="5" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>
+
+  <circle cx="70" cy="80" r="6" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>  <circle cx="70" cy="80" r="6" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>
+
+  <circle cx="85" cy="78" r="5" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>  <circle cx="85" cy="78" r="5" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>
+
+    
+
+  <!-- Gems -->  <!-- Gems -->
+
+  <polygon points="35,85 40,78 45,85 40,92" fill="#FF6B6B"/>  <polygon points="35,85 40,78 45,85 40,92" fill="#FF6B6B"/>
+
+  <polygon points="80,88 85,81 90,88 85,95" fill="#4ECDC4"/>  <polygon points="80,88 85,81 90,88 85,95" fill="#4ECDC4"/>
+
+  <polygon points="60,95 65,88 70,95 65,102" fill="#45B7D1"/>  <polygon points="60,95 65,88 70,95 65,102" fill="#45B7D1"/>
+
+    
+
+  <!-- Sparkles -->  <!-- Sparkles -->
+
+  <text x="30" y="50" fill="#FFD700" font-size="8">✨</text>  <text x="30" y="50" fill="#FFD700" font-size="8">✨</text>
+
+  <text x="90" y="55" fill="#FFD700" font-size="8">✨</text>  <text x="90" y="55" fill="#FFD700" font-size="8">✨</text>
+
+  <text x="75" y="45" fill="#FFD700" font-size="6">⭐</text>  <text x="75" y="45" fill="#FFD700" font-size="6">⭐</text>
+
+    
+
+  <!-- Pirate elements -->  <!-- Pirate elements -->
+
+  <text x="64" y="25" text-anchor="middle" fill="#FFD700" font-family="serif" font-size="16" font-weight="bold">💰</text>  <text x="64" y="25" text-anchor="middle" fill="#FFD700" font-family="serif" font-size="16" font-weight="bold">💰</text>
+
+</svg></svg>

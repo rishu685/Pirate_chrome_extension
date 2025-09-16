@@ -1,0 +1,43 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg"><svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->  <!-- Background -->
+
+  <rect width="128" height="128" fill="#2c3e50" rx="10"/>  <rect width="128" height="128" fill="#2c3e50" rx="10"/>
+
+    
+
+  <!-- Cannon (simplified) -->  <!-- Cannon (simplified) -->
+
+  <rect x="10" y="55" width="40" height="18" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="9"/>  <rect x="10" y="55" width="40" height="18" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="9"/>
+
+  <circle cx="15" cy="64" r="8" fill="#34495e"/>  <circle cx="15" cy="64" r="8" fill="#34495e"/>
+
+    
+
+  <!-- Unlit fuse (gray/brown) -->  <!-- Unlit fuse (gray/brown) -->
+
+  <path d="M50 64 Q60 60 70 58 Q80 56 90 60 Q100 64 110 62"   <path d="M50 64 Q60 60 70 58 Q80 56 90 60 Q100 64 110 62" 
+
+        stroke="#8B4513" stroke-width="4" fill="none" stroke-linecap="round"/>        stroke="#8B4513" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+    
+
+  <!-- Fuse end (unlit) -->  <!-- Fuse end (unlit) -->
+
+  <circle cx="110" cy="62" r="3" fill="#654321"/>  <circle cx="110" cy="62" r="3" fill="#654321"/>
+
+    
+
+  <!-- Progress indicator -->  <!-- Progress indicator -->
+
+  <text x="64" y="100" text-anchor="middle" fill="#7f8c8d" font-family="monospace" font-size="12" font-weight="bold">0% 🧨</text>  <text x="64" y="100" text-anchor="middle" fill="#7f8c8d" font-family="monospace" font-size="12" font-weight="bold">0% 🧨</text>
+
+    
+
+  <!-- Decorative elements -->  <!-- Decorative elements -->
+
+  <text x="20" y="25" fill="#7f8c8d" font-size="16">⚫</text>  <text x="20" y="25" fill="#7f8c8d" font-size="16">⚫</text>
+
+  <text x="100" y="25" fill="#7f8c8d" font-size="16">⚫</text>  <text x="100" y="25" fill="#7f8c8d" font-size="16">⚫</text>
+
+</svg></svg>

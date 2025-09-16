@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Pirate Downloader",
+  "version": "2.0",
+  "description": "A pirate-themed download experience with animated progress.",
+  
+  "permissions": [
+    "downloads",
+    "notifications"
+  ],
+  
+  "background": {
+    "service_worker": "pirate-background.js"
+  },
+  
+  "icons": {
+    "128": "icons/icon128.png"
+  },
+  
+  "action": {
+    "default_icon": {
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Pirate Downloader"
+  }
+}

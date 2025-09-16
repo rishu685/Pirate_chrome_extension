@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Test Extension",
+  "version": "1.0",
+  "description": "Simple test for notifications and downloads",
+  
+  "permissions": [
+    "downloads",
+    "notifications"
+  ],
+  
+  "background": {
+    "service_worker": "test.js"
+  },
+  
+  "icons": {
+    "128": "icons/icon128.png"
+  }
+}

@@ -1,0 +1,83 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg"><svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->  <!-- Background -->
+
+  <rect width="128" height="128" fill="#2c3e50" rx="10"/>  <rect width="128" height="128" fill="#2c3e50" rx="10"/>
+
+    
+
+  <!-- Cannon (simplified) -->  <!-- Cannon (simplified) -->
+
+  <rect x="10" y="55" width="40" height="18" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="9"/>  <rect x="10" y="55" width="40" height="18" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="9"/>
+
+  <circle cx="15" cy="64" r="8" fill="#34495e"/>  <circle cx="15" cy="64" r="8" fill="#34495e"/>
+
+    
+
+  <!-- Completely burnt fuse -->  <!-- Completely burnt fuse -->
+
+  <path d="M50 64 Q60 60 70 58 Q80 56 90 60 Q100 64 110 62"   <path d="M50 64 Q60 60 70 58 Q80 56 90 60 Q100 64 110 62" 
+
+        stroke="#2c2c2c" stroke-width="4" fill="none" stroke-linecap="round"/>        stroke="#2c2c2c" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+    
+
+  <!-- Explosion at the end! -->  <!-- Explosion at the end! -->
+
+  <circle cx="110" cy="62" r="8" fill="#FF4500"/>  <circle cx="110" cy="62" r="8" fill="#FF4500"/>
+
+  <circle cx="110" cy="62" r="12" fill="#FF6B35" opacity="0.8"/>  <circle cx="110" cy="62" r="12" fill="#FF6B35" opacity="0.8"/>
+
+  <circle cx="110" cy="62" r="16" fill="#FFD700" opacity="0.6"/>  <circle cx="110" cy="62" r="16" fill="#FFD700" opacity="0.6"/>
+
+  <circle cx="110" cy="62" r="20" fill="#FFA500" opacity="0.4"/>  <circle cx="110" cy="62" r="20" fill="#FFA500" opacity="0.4"/>
+
+    
+
+  <!-- Explosion sparks -->  <!-- Explosion sparks -->
+
+  <circle cx="120" cy="55" r="2" fill="#FFD700"/>  <circle cx="120" cy="55" r="2" fill="#FFD700"/>
+
+  <circle cx="105" cy="50" r="2" fill="#FF8C00"/>  <circle cx="105" cy="50" r="2" fill="#FF8C00"/>
+
+  <circle cx="115" cy="70" r="2" fill="#FFD700"/>  <circle cx="115" cy="70" r="2" fill="#FFD700"/>
+
+  <circle cx="100" cy="68" r="2" fill="#FF4500"/>  <circle cx="100" cy="68" r="2" fill="#FF4500"/>
+
+  <circle cx="118" cy="62" r="1.5" fill="#FFD700"/>  <circle cx="118" cy="62" r="1.5" fill="#FFD700"/>
+
+  <circle cx="102" cy="56" r="1.5" fill="#FF8C00"/>  <circle cx="102" cy="56" r="1.5" fill="#FF8C00"/>
+
+    
+
+  <!-- Explosion rays -->  <!-- Explosion rays -->
+
+  <line x1="110" y1="62" x2="125" y2="50" stroke="#FFD700" stroke-width="2" opacity="0.7"/>  <line x1="110" y1="62" x2="125" y2="50" stroke="#FFD700" stroke-width="2" opacity="0.7"/>
+
+  <line x1="110" y1="62" x2="125" y2="74" stroke="#FF8C00" stroke-width="2" opacity="0.7"/>  <line x1="110" y1="62" x2="125" y2="74" stroke="#FF8C00" stroke-width="2" opacity="0.7"/>
+
+  <line x1="110" y1="62" x2="95" y2="47" stroke="#FFD700" stroke-width="2" opacity="0.7"/>  <line x1="110" y1="62" x2="95" y2="47" stroke="#FFD700" stroke-width="2" opacity="0.7"/>
+
+  <line x1="110" y1="62" x2="95" y2="77" stroke="#FF4500" stroke-width="2" opacity="0.7"/>  <line x1="110" y1="62" x2="95" y2="77" stroke="#FF4500" stroke-width="2" opacity="0.7"/>
+
+    
+
+  <!-- Progress indicator -->  <!-- Progress indicator -->
+
+  <text x="64" y="100" text-anchor="middle" fill="#8e44ad" font-family="monospace" font-size="12" font-weight="bold">100% 💥</text>  <text x="64" y="100" text-anchor="middle" fill="#8e44ad" font-family="monospace" font-size="12" font-weight="bold">100% 💥</text>
+
+    
+
+  <!-- Decorative elements -->  <!-- Decorative elements -->
+
+  <text x="20" y="25" fill="#8e44ad" font-size="16">💥</text>  <text x="20" y="25" fill="#8e44ad" font-size="16">💥</text>
+
+  <text x="100" y="25" fill="#c0392b" font-size="16">💥</text>  <text x="100" y="25" fill="#c0392b" font-size="16">💥</text>
+
+    
+
+  <!-- BOOM! -->  <!-- BOOM! -->
+
+  <text x="64" y="25" text-anchor="middle" fill="#FFD700" font-size="14" font-weight="bold">💥 BOOM! 💥</text>  <text x="64" y="25" text-anchor="middle" fill="#FFD700" font-size="14" font-weight="bold">💥 BOOM! 💥</text>
+
+</svg></svg>
