@@ -15,7 +15,7 @@ Demo screenshots for reference:
 
 A fun, pirate-themed Chrome extension that transforms your download experience with animated cannon fuse progress indicators and treasure completion notifications.
 
-## 🚀 Installation Guide
+## Installation Guide
 
 ### Step 1: Prepare the Extension
 1. Make sure you have all the required files in the `Pirate-Downloader-Extension` folder:
@@ -53,7 +53,7 @@ Currently, the extension has placeholder `.txt` files for icons. You need to rep
    - You should see "Pirate Downloader" appear in your extensions list
    - The extension should be enabled by default
 
-## 🎮 How to Use
+## How to Use
 
 ### Testing the Extension
 1. **Start a Download:**
@@ -74,7 +74,7 @@ Currently, the extension has placeholder `.txt` files for icons. You need to rep
 - **Smart Updates:** Only updates notification when progress state actually changes
 - **Automatic Cleanup:** Handles cancelled/failed downloads gracefully
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Extension Not Working?
 1. **Check Permissions:** Make sure the extension has "Downloads" and "Notifications" permissions
@@ -92,7 +92,7 @@ Currently, the extension has placeholder `.txt` files for icons. You need to rep
 2. Check that file names match exactly (case-sensitive)
 3. Reload the extension after adding icons
 
-## 🎨 Customization
+##  Customization
 
 You can customize the extension by:
 - **Changing Icons:** Replace the PNG files with your own pirate-themed designs
@@ -100,14 +100,14 @@ You can customize the extension by:
 - **Adjusting Progress Thresholds:** Change when different fuse icons appear
 - **Adding Sound Effects:** Extend the code to include audio (if desired)
 
-## 📝 Technical Details
+##  Technical Details
 
 - **Manifest Version:** 3 (latest Chrome extension standard)
 - **Permissions:** Downloads, Notifications
 - **Background:** Service Worker (background.js)
 - **Supported:** Chrome 88+ (Manifest V3 compatible)
 
-## 🐛 Known Limitations
+##  Known Limitations
 
 - Requires manual icon creation (placeholder files provided)
 - Only works with downloads initiated through Chrome
