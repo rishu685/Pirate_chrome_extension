@@ -1,4 +1,4 @@
-// Test script to check notification permissions and API availabilit
+
 
 console.log('=== Pirate Downloader Debug Info ===');
 
