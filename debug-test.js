@@ -3,7 +3,7 @@
 
 console.log('=== Pirate Downloader Debug Info ===');
 
-// Check if extension APIs are available
+
 console.log('Chrome object available:', typeof chrome !== 'undefined');
 console.log('Chrome downloads API:', typeof chrome?.downloads !== 'undefined');
 console.log('Chrome notifications API:', typeof chrome?.notifications !== 'undefined');
