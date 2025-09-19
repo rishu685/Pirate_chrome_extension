@@ -8,7 +8,7 @@ console.log('Chrome object available:', typeof chrome !== 'undefined');
 console.log('Chrome downloads API:', typeof chrome?.downloads !== 'undefined');
 console.log('Chrome notifications API:', typeof chrome?.notifications !== 'undefined');
 
-// Check notification permissions
+
 if ('Notification' in window) {
   console.log('Browser notification permission:', Notification.permission);
   if (Notification.permission === 'default') {
