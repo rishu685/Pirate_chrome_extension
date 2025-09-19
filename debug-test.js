@@ -1,5 +1,4 @@
-// Test script to check notification permissions and API availability
-// Run this in the browser console (F12 -> Console) to debug
+// Test script to check notification permissions and API availabilit
 
 console.log('=== Pirate Downloader Debug Info ===');
 
