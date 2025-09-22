@@ -58,4 +58,4 @@ This extension was built with a focus on:
 - Comprehensive error handling and logging
 - User-friendly installation and debugging
 
-**Ahoy! Enjoy your pirate-themed downloads!** ⚓
+**Ahoy! Enjoy your pirate-themed downloads!** 
