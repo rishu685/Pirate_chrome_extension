@@ -2,7 +2,7 @@
 
 A fun, pirate-themed Chrome extension that transforms your download experience with animated progress indicators and treasure-themed completion notifications.
 
-## 🚀 Features
+##🚀 Features
 
 - **Cannon Fuse Progress Animation**: Downloads show a burning fuse that progresses from 0% to 100%
 - **Treasure Acquired Notifications**: Completion notifications with pirate-themed messages
